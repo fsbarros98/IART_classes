@@ -1,4 +1,6 @@
-# Project II - Class Artificial Intelligence
+# Project II - Class Artificial: Intelligence
+
+## Analysis of COVID-19 mobility records
 
 Authors:
  * Maria de Fátima Barros @fsbarros98
@@ -14,3 +16,9 @@ Delivery : 27 May
  * data --- > document with data.csv for the analysis
  * utils/environment.yml --- > environment with main dependencies needed, to be updated as the project goes
 
+### TO DO:
+
+ * Explore data 
+ * Organize data - train, val, test
+ * Experiment different models (KNN, Decision Trees, MLP, SVM, etc.)
+ * Explore results
