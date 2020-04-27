@@ -1,4 +1,4 @@
-# Project II - Class Artificial: Intelligence
+# Project II - Class: Artificial Intelligence
 
 ## Analysis of COVID-19 mobility records
 
