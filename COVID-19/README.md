@@ -15,7 +15,16 @@ Delivery : 27 May
  * docs --- > description of the project
  * data --- > document with data.csv for the analysis
  * utils/environment.yml --- > environment with main dependencies needed, to be updated as the project goes
+ 
+ ### utils/environment.yml
+ 
+ Conda save environment: Inside the environment, run:
 
+`conda env export > env_name.yml `
+
+Conda create environmente from .yml file. In cmd, run:
+
+`conda env create -f env_name.yml `
 ### TO DO:
 
  * Explore data 
