@@ -25,9 +25,4 @@ Delivery : 27 May
 Conda create environmente from .yml file. In cmd, run:
 
 `conda env create -f env_name.yml `
-### TO DO:
 
- * Explore data 
- * Organize data - train, val, test
- * Experiment different models (KNN, Decision Trees, MLP, SVM, etc.)
- * Explore results
