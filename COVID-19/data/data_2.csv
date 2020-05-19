@@ -1,4 +1,4 @@
-iso,country,date,grocery_pharmacy,parks,residential,retail_recreation,transit_stations,workplaces,total_cases,fatalities,total_cases_1m,fatalitis_1m,pib,health_system_efficiency
+iso,country,date,grocery_pharmacy,parks,residential,retail_recreation,transit_stations,workplaces,total_cases,fatalities,total_cases_1m,fatalities_1m,pib,health_system_efficiency
 AR,Argentina,2020-02-23,8.185,17.563,0.437,13.644,5.334,-2.486,0,0,0,0,519487,0.722
 AR,Argentina,2020-02-24,-15.875,25.605,6.321,-9.973,-26.785,-53.687,0,0,0,0,519487,0.722
 AR,Argentina,2020-02-25,-17.135,1.325,6.895,-19.717,-28.485,-50.053,0,0,0,0,519487,0.722
